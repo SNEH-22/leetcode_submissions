@@ -41,5 +41,10 @@ MY LEETCODE SUBMISSIONS
 ## Math
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/SNEH-22/leetcode_submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SNEH-22/leetcode_submissions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/SNEH-22/leetcode_submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 <!---LeetCode Topics End-->
