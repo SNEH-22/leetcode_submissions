@@ -12,6 +12,7 @@ MY LEETCODE SUBMISSIONS
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SNEH-22/leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/SNEH-22/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [1646-kth-missing-positive-number](https://github.com/SNEH-22/leetcode_submissions/tree/master/1646-kth-missing-positive-number) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SNEH-22/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
