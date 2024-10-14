@@ -49,6 +49,7 @@ MY LEETCODE SUBMISSIONS
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SNEH-22/leetcode_submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/SNEH-22/leetcode_submissions/tree/master/0189-rotate-array) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/SNEH-22/leetcode_submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SNEH-22/leetcode_submissions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -60,5 +61,6 @@ MY LEETCODE SUBMISSIONS
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SNEH-22/leetcode_submissions/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/SNEH-22/leetcode_submissions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
