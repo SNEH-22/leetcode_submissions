@@ -8,6 +8,7 @@ MY LEETCODE SUBMISSIONS
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SNEH-22/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SNEH-22/leetcode_submissions/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/SNEH-22/leetcode_submissions/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/SNEH-22/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SNEH-22/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SNEH-22/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
@@ -39,6 +40,7 @@ MY LEETCODE SUBMISSIONS
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SNEH-22/leetcode_submissions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/SNEH-22/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/SNEH-22/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SNEH-22/leetcode_submissions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -63,4 +65,8 @@ MY LEETCODE SUBMISSIONS
 | ------- |
 | [0050-powx-n](https://github.com/SNEH-22/leetcode_submissions/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/SNEH-22/leetcode_submissions/tree/master/2050-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SNEH-22/leetcode_submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
