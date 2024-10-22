@@ -69,4 +69,8 @@ MY LEETCODE SUBMISSIONS
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SNEH-22/leetcode_submissions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/SNEH-22/leetcode_submissions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
